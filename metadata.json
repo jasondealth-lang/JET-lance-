@@ -1,0 +1,6 @@
+{
+  "name": "JET lancer",
+  "description": "Smart Digital Solutions. Human Touch. Professional Results. Creative digital technology agency combining AI-powered workflows, website development, automation, and a visual website builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
